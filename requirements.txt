@@ -1,5 +1,4 @@
 git+https://github.com/Rapptz/discord.py
 git+https://github.com/ytdl-org/youtube-dl
-githttps://github.com/pyca/pynacl
 google-api-python-client
 python-dotenv
